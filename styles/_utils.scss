@@ -63,6 +63,11 @@
     }
 }
 
+.x-hidden {
+    overflow-x: hidden;
+}
+
+
 .circle-icon {
     --circleSize: #{rem(52)};
     --circleMarginLeft: #{rem(20)};
